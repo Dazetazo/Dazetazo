@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Valenzuela</h1>
-<h3 align="center">A passionate Full-Stack developer from Chile</h3>
+<h3 align="center">A passionate student Full-Stack developer from Chile</h3>
 
 - 🌱 I’m currently learning **C#, JavaScript, Unity**
 
