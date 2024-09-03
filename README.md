@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="50" src="https://cdn.dribbble.com/users/96196/screenshots/14361000/media/132022715fed869b2067b59919f7f9f9.gif"  />
+<img align="right" height="150" width="150" src="https://cdn.dribbble.com/users/96196/screenshots/14361000/media/132022715fed869b2067b59919f7f9f9.gif"  />
 
 ###
 
