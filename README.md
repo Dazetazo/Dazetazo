@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Diego Valenzuela and I'm a FrontEnd and VideoGames developer, from Chile</h2>
+<h2 align="left">Hi 👋! My name is Diego Valenzuela and I'm a FrontEnd and VideoGames developer, from Chile.</h2>
 
 ###
 
